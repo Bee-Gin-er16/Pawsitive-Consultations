@@ -1,3 +1,4 @@
 node_modules
 authconfig.js
 config.json
+.env
