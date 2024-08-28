@@ -1,4 +1,7 @@
 # St.-PET-ER (abbrev: Saint Pet Emergency Room)
+Notice: We do not own the brand, St. Peter. We just wanted a catchy name for the app during software development. 
+
+We are aware never to infringe the copyright of the original brand. As such, we altered the logo but we did not pass it off as our own especially the name which is a play on the words; Saint, Pet, ER=Emergency Room. 
 
 Purpose of the app:
 - Made in fulfillment of the group's chosen motif for theri software development project "Veterinary Clinic"
